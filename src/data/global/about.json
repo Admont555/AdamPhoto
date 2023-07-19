@@ -1,0 +1,163 @@
+[
+    {
+        "id": "about me",
+        "title": "היי נעים, להכיר אני אדם",
+        "excerpt": "בין אם אתם צריכים תמונת סטילס או צילום וידאו מקצועי – אני כאן לשירותכם. אני מציע: צילום, עריכה, עיצוב ויצירת תכנים לכל מדיה "
+    },
+    {
+        "id": "about service",
+        "title": "השירותים שלי",
+        "pagelinkText": [
+            "צילום סטילס",
+            "עריכה",
+            "עיצוב",
+            "פיתוח אתרים",
+            "צילומי רחפן",
+            "צילום ווידאו"
+        ]
+    },
+    {
+        "id": "team",
+        "title": "Meet Our Team",
+        "team": [
+            {
+                "id": 1,
+                "classOption": "team-member",
+                "image": "./img/team/01.jpg",
+                "name": "Joe Biden",
+                "designation": "CEO Founder"
+            },
+            {
+                "id": 2,
+                "classOption": "team-member",
+                "image": "./img/team/02.jpg",
+                "name": "Alex Tuntuni",
+                "designation": "CEO Founder"
+            },
+            {
+                "id": 3,
+                "classOption": "team-member",
+                "image": "./img/team/03.jpg",
+                "name": "Blanche Fields",
+                "designation": "CEO Founder"
+            },
+            {
+                "id": 4,
+                "classOption": "team-member",
+                "image": "./img/team/04.jpg",
+                "name": "Alex Tuntuni",
+                "designation": "CEO Founder"
+            },
+            {
+                "id": 5,
+                "classOption": "team-member",
+                "image": "./img/team/05.jpg",
+                "name": "Blanche Fields",
+                "designation": "CEO Founder"
+            },
+            {
+                "id": 6,
+                "classOption": "team-member",
+                "image": "./img/team/06.jpg",
+                "name": "Alex Tuntuni",
+                "designation": "CEO Founder"
+            },
+            {
+                "id": 7,
+                "classOption": "team-member",
+                "image": "./img/team/07.jpg",
+                "name": "Blanche Fields",
+                "designation": "CEO Founder"
+            },
+            {
+                "id": 8,
+                "classOption": "team-member become-member",
+                "image": "./img/team/01.jpg",
+                "name": "Become <br>member in <br>Alexis"
+            }
+        ]
+    },
+    {
+        "id": "blockquote",
+        "excerpt": "הכל מטוקטק ומסודר! כל דבר שעלה בדעתי יצא לפועל בצורה מדויקת כמו שחשבתי, התמונות יצאו מדהים וכך גם סרטון התדמית שנעשה בשביל העסק שלי, הלידים לא מפסיקים להגיע!",
+        "name": "גלעד דבוש",
+        "designation": "בעלים מועדון כושר הארדקור"
+    },
+    {
+        "id": "about gallery",
+        "gallery": {
+            "imageOne": "./img/photos/g-01.jpg",
+            "imageTwo": "./img/photos/g-02.jpg",
+            "imageThree": "./img/photos/g-03.jpg"
+        }
+    },
+
+    {
+        "id": "Awards",
+        "title": "Awards Achieved",
+        "yearOne": "2017",
+        "yearTwo": "2016",
+        "awardItem": [
+            {
+                "id": 1,
+                "cate": "500px",
+                "title": "Photo Of The Years for <span>Emila</span>"
+            },
+            {
+                "id": 2,
+                "cate": "Unsplash",
+                "title": "Honorable Mention for <span>Listofy Stream Music App</span>"
+            },
+            {
+                "id": 3,
+                "cate": "Pexel",
+                "title": "Gold In Digital Craft for <span>Biford</span>"
+            },
+            {
+                "id": 4,
+                "cate": "500px",
+                "title": "Coporate Social Responsiblity for <span>ABC</span>"
+            },
+            {
+                "id": 5,
+                "cate": "Shutterstocks",
+                "title": "Best Showcase for <span>Gym App</span>"
+            }
+        ]
+    },
+    {
+        "id": "Brand",
+        "title": "לקוחות שזכיתי לעבוד איתם",
+        "excerpt": "במהלך השנים יצא לי לא מעט להכיר ולעבוד עם מותגים ואנשים מדהימים בהחלט ואני מודע על הזכות להיות חלק מהגדילה והצמיחה שלהם.",
+        "brand": [
+            {
+                "id": 1,
+                "image": "./img/brand-logo/01.png"
+            },
+            {
+                "id": 2,
+                "image": "./img/brand-logo/02.png"
+            },
+            {
+                "id": 3,
+                "image": "./img/brand-logo/03.png"
+            },
+            {
+                "id": 4,
+                "image": "./img/brand-logo/04.png"
+            },
+            {
+                "id": 5,
+                "image": "./img/brand-logo/05.png"
+            },
+            {
+                "id": 6,
+                "image": "./img/brand-logo/06.webp"
+            },
+            {
+                "id": 7,
+                "image": "./img/brand-logo/07.webp"
+            }
+        ]
+    }
+]

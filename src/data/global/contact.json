@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "delay": "300",
+        "title": "אשמח לשמוע ממכם",
+        "icon": "icon_mail_alt",
+        "info": "<a href='mailto:adam@beeu.co.il'>adam@beeu.co.il</a><br /><a href='tel:0526389420'>052-6389-420</a>"
+    },
+    {
+        "id": 2,
+        "aos-delay": "600",
+        "title": "איפה אני ממוקם?",
+        "icon": "icon_pin_alt",
+        "info": "<p>קרית אונו, מחוז מרכז</p>"
+    },
+    {
+        "id": 3,
+        "aos-delay": "900",
+        "title": "שיתופי פעולה",
+        "icon": "icon_briefcase",
+        "info": "<p> <a href='adam@beeu.co.il'>לחצו כאן</a></p>"
+    }
+]

@@ -1,0 +1,579 @@
+[
+    {
+        "id": 1,
+        "type": "image",
+        "homeImage": "img/portfolio/portfolio-1.jpg",
+        "title": "גלעד דבוש",
+        "excerpt": "צילום תדמית למועדון ספורט",
+        "categories": ["ספורט"],
+
+        "client": "Hardcore <br />פתח תקווה",
+        "date": " 17 בספטמבר<br />2022",
+        "team": "",
+        "services": "",
+        "body": ["<p></p>", ""],
+        "pageUrl": {
+            "text": "https://hardcorefitness.co.il/",
+            "link": "https://hardcorefitness.co.il/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    },
+    {
+        "id": 2,
+        "type": "image",
+        "homeImage": "img/portfolio/portfolio-2.jpg",
+        "title": "צילומי תדמית",
+        "excerpt": "",
+        "categories": ["פורטרט", "תדמית"],
+        "client": "",
+        "date": "",
+        "team": "",
+        "services": "",
+        "body": ["<p></p>", ""],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    },
+    {
+        "id": 3,
+        "type": "Image",
+        "homeImage": "img/portfolio/portfolio-3.jpg",
+        "title": "Deja Vu",
+        "excerpt": "השכרה לאירועים",
+        "categories": ["תדמית"],
+        "client": "",
+        "date": "",
+        "team": "",
+        "services": "",
+        "body": ["<p></p>", ""],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    },
+    {
+        "id": 4,
+        "type": "image",
+        "homeImage": "img/portfolio/portfolio-4.jpg",
+        "title": "טל",
+        "excerpt": "",
+        "categories": ["פורטרט"],
+        "client": "",
+        "date": "",
+        "team": "",
+        "services": "",
+        "body": ["<p></p>", ""],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    },
+    {
+        "id": 5,
+        "type": "image",
+        "homeImage": "img/portfolio/portfolio-5.jpg",
+        "title": "דן",
+        "excerpt": "מרטלו",
+        "categories": ["תדמית", "פורטרט"],
+        "client": "",
+        "date": "",
+        "team": "",
+        "services": "",
+        "body": ["<p></p>", ""],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    },
+    {
+        "id": 6,
+        "type": "image",
+        "homeImage": "img/portfolio/portfolio-6.jpg",
+        "title": "גיא",
+        "excerpt": "",
+        "categories": ["פורטרט"],
+        "client": "",
+        "date": "",
+        "team": "",
+        "services": "",
+        "body": ["<p></p>", ""],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    },
+    {
+        "id": 7,
+        "type": "image",
+        "homeImage": "img/portfolio/portfolio-7.jpg",
+        "title": "טומי אלתגר",
+        "excerpt": "רקונס",
+        "categories": ["תדמית", "ספורט"],
+        "client": "",
+        "date": "",
+        "team": "",
+        "services": "",
+        "body": ["", ""],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    },
+    {
+        "id": 8,
+        "type": "image",
+        "homeImage": "img/portfolio/portfolio-8.jpg",
+        "title": "צילומי מוצר ספורט",
+        "excerpt": "קולגן פלוס",
+        "categories": ["מוצר", "ספורט"],
+        "client": "",
+        "date": "",
+        "team": "",
+        "services": "",
+        "body": ["<p></p>", ""],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    },
+    {
+        "id": 9,
+        "type": "image",
+        "homeImage": "img/portfolio/portfolio-9.jpg",
+        "title": "גל",
+        "excerpt": "",
+        "categories": ["פורטרט"],
+        "client": "",
+        "date": "",
+        "team": "",
+        "services": "",
+        "body": ["<p></p>", ""],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    },
+    {
+        "id": 10,
+        "type": "image",
+        "homeImage": "img/portfolio/portfolio-10.jpg",
+        "title": "יותם",
+        "excerpt": "פיטנס פקטורי",
+        "categories": ["תדמית", "ספורט"],
+        "client": "",
+        "date": "",
+        "team": "",
+        "services": "",
+        "body": ["<p></p>", ""],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    },
+    {
+        "id": 11,
+        "type": "image",
+        "homeImage": "img/portfolio/portfolio-11.jpg",
+        "title": "שחר",
+        "excerpt": "",
+        "categories": ["תדמית", "ספורט"],
+        "client": "",
+        "date": "",
+        "team": "",
+        "services": "",
+        "body": ["<p></p>", ""],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    },
+    {
+        "id": 11,
+        "type": "image",
+        "homeImage": "img/portfolio/portfolio-12.jpg",
+        "title": "",
+        "excerpt": "",
+        "categories": ["רחפן"],
+        "client": "",
+        "date": "",
+        "team": "",
+        "services": "",
+        "body": ["<p></p>", ""],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    },
+    {
+        "id": 11,
+        "type": "image",
+        "homeImage": "img/portfolio/portfolio-13.jpg",
+        "title": "אופנת רחוב",
+        "excerpt": "ווליום TLV",
+        "categories": ["פורטרט", "תדמית"],
+        "client": "",
+        "date": "",
+        "team": "",
+        "services": "",
+        "body": ["<p></p>", ""],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    },
+    {
+        "id": 12,
+        "type": "image",
+        "homeImage": "img/portfolio/portfolio-14.jpg",
+        "title": "סיום תואר",
+        "excerpt": "הקריה האקדמית אונו",
+        "categories": ["תדמית"],
+        "client": "",
+        "date": "",
+        "team": "",
+        "services": "",
+        "body": ["<p></p>", ""],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    },
+    {
+        "id": 13,
+        "type": "image",
+        "homeImage": "img/portfolio/portfolio-15.jpg",
+        "title": "אופק",
+        "excerpt": "פיטנס פקטורי",
+        "categories": ["ספורט", "תדמית"],
+        "client": "",
+        "date": "",
+        "team": "",
+        "services": "",
+        "body": ["<p></p>", ""],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    },
+    {
+        "id": 14,
+        "type": "image",
+        "homeImage": "img/portfolio/portfolio-16.jpg",
+        "title": "יבגני",
+        "excerpt": "",
+        "categories": ["פורטרט", "תדמית"],
+        "client": "",
+        "date": "",
+        "team": "",
+        "services": "",
+        "body": ["<p></p>", ""],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    },
+    {
+        "id": 15,
+        "type": "image",
+        "homeImage": "img/portfolio/portfolio-17.jpg",
+        "title": "",
+        "excerpt": "",
+        "categories": ["רחפן"],
+        "client": "",
+        "date": "",
+        "team": "",
+        "services": "",
+        "body": ["<p></p>", ""],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    },
+    {
+        "id": 16,
+        "type": "image",
+        "homeImage": "img/portfolio/portfolio-18.jpg",
+        "title": "Save the date",
+        "excerpt": "",
+        "categories": ["פורטרט"],
+        "client": "",
+        "date": "",
+        "team": "",
+        "services": "",
+        "body": ["<p></p>", ""],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    },
+    {
+        "id": 17,
+        "type": "image",
+        "homeImage": "img/portfolio/portfolio-19.jpg",
+        "title": "נעה",
+        "excerpt": "",
+        "categories": ["פורטרט"],
+        "client": "",
+        "date": "",
+        "team": "",
+        "services": "",
+        "body": ["<p></p>", ""],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    },
+    {
+        "id": 18,
+        "type": "image",
+        "homeImage": "img/portfolio/portfolio-20.jpg",
+        "title": "מעיין",
+        "excerpt": "",
+        "categories": ["פורטרט"],
+        "client": "",
+        "date": "",
+        "team": "",
+        "services": "",
+        "body": ["<p></p>", ""],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    },
+    {
+        "id": 19,
+        "type": "image",
+        "homeImage": "img/portfolio/portfolio-21.jpg",
+        "title": "",
+        "excerpt": "",
+        "categories": ["רחפן"],
+        "client": "",
+        "date": "",
+        "team": "",
+        "services": "",
+        "body": ["<p></p>", ""],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    },
+    {
+        "id": 20,
+        "type": "image",
+        "homeImage": "img/portfolio/portfolio-22.jpg",
+        "title": "",
+        "excerpt": "",
+        "categories": ["רחפן"],
+        "client": "",
+        "date": "",
+        "team": "",
+        "services": "",
+        "body": ["<p></p>", ""],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    },
+    {
+        "id": 21,
+        "type": "image",
+        "homeImage": "img/portfolio/portfolio-23.jpg",
+        "title": "שקד",
+        "excerpt": "קרייזי ג'ים",
+        "categories": ["תדמית", "ספורט"],
+        "client": "",
+        "date": "",
+        "team": "",
+        "services": "",
+        "body": ["<p></p>", ""],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    },
+    {
+        "id": 22,
+        "type": "image",
+        "homeImage": "img/portfolio/portfolio-24.jpg",
+        "title": "ג'וני",
+        "excerpt": "",
+        "categories": ["פורטרט"],
+        "client": "",
+        "date": "",
+        "team": "",
+        "services": "",
+        "body": ["<p></p>", ""],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    }
+]

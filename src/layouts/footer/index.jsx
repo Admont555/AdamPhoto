@@ -1,0 +1,112 @@
+import { Link } from "react-router-dom";
+import FooterLogo from "../../components/footer-logo";
+
+const Footer = () => {
+    return (
+        <footer className="footer-area reveal-footer border-top-style">
+            <div className="container-fluid">
+                <div className="row">
+                    <div className="col-sm-12">
+                        <div className="footer-content">
+                            <div className="widget-item">
+                                <div className="widget-footer-nav">
+                                    <nav>
+                                        <ul>
+                                            <li>
+                                                <Link
+                                                    to={
+                                                        process.env.PUBLIC_URL +
+                                                        "/"
+                                                    }
+                                                >
+                                                    תקנון אתר
+                                                </Link>
+                                            </li>
+                                            <li>
+                                                <Link
+                                                    to={
+                                                        process.env.PUBLIC_URL +
+                                                        "/"
+                                                    }
+                                                >
+                                                    הצהרת נגישות
+                                                </Link>
+                                            </li>
+                                            <li>
+                                                <Link
+                                                    to={
+                                                        process.env.PUBLIC_URL +
+                                                        "/contact"
+                                                    }
+                                                >
+                                                    יצירת קשר
+                                                </Link>
+                                            </li>
+                                        </ul>
+                                    </nav>
+                                </div>
+                            </div>
+                            <div className="widget-item text-center">
+                                <div className="about-widget">
+                                    <FooterLogo
+                                        image={`${process.env.PUBLIC_URL}/img/logo.png`}
+                                    />
+                                </div>
+                                <div className="widget-copyright">
+                                    <p>
+                                        © 2023 <span>This site is</span> Made
+                                        with{" "}
+                                        <i className="icofont-heart-alt"></i> by{" "}
+                                        <a
+                                            target="_blank"
+                                            href=""
+                                            rel="noreferrer"
+                                        >
+                                            AdamO
+                                        </a>
+                                    </p>
+                                </div>
+                            </div>
+                            <div className="widget-item">
+                                <ul className="widget-social">
+                                    <li className="social-text">
+                                        <span>ניפגש ברשתות החברתיות</span>
+                                    </li>
+                                    <li>
+                                        <a
+                                            href="https://www.linkedin.com/in/adam-ober/"
+                                            target="_blank"
+                                            rel="noopener noreferrer"
+                                        >
+                                            <i className="social_linkedin"></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a
+                                            href="https://www.facebook.com/adam.oberlander/"
+                                            target="_blank"
+                                            rel="noopener noreferrer"
+                                        >
+                                            <i className="social_facebook"></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a
+                                            href="https://www.instagram.com/adam_oberlander5/"
+                                            target="_blank"
+                                            rel="noopener noreferrer"
+                                        >
+                                            <i className="social_instagram"></i>
+                                        </a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    );
+};
+
+export default Footer;
